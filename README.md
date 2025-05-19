@@ -1,2 +1,2 @@
 ### Hi there 👋
-My name is Orhun Ege Çelik and I am a sophomore at Bilkent, studying CS.
+My name is Orhun Ege Çelik and I am a junior at Bilkent, studying CS.
